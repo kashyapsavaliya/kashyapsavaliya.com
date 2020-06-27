@@ -1,0 +1,24 @@
+.footer {
+  background-color: #f8f9f9;
+}
+
+.footer h3 {
+  font-family: "Nunito", sans-serif !important;
+  font-weight: 300 !important;
+  line-height: 28px !important;
+  font-size: 14.5px !important;
+  letter-spacing: 0.7px;
+  color: black !important;
+  text-align: center;
+}
+
+#foot {
+  font-family: "Nunito", sans-serif !important;
+  font-weight: 300 !important;
+  font-size: 13.2px !important;
+  letter-spacing: 0.6px;
+  color: #676767 !important;
+  margin: 0;
+  padding-top: 22px;
+  padding-bottom: 20px;
+}

@@ -1,5 +1,5 @@
 import React from 'react';
-import './index.css';
+import './header.css';
 import resume from "./images/file.svg";
 import linkedin from "./images/linkedin.svg";
 import twitter from "./images/twitter.svg";
