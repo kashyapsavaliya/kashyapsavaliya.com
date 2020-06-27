@@ -121,3 +121,15 @@ ul {
   -webkit-transform: scale(1.2);
   transform: scale(1.2);
 }
+
+.mountain {
+  position: absolute;
+  margin-left: 750px;
+  margin-top: 200px;
+}
+
+@media (max-width: 1300px) {
+  .mountain {
+    margin-left: 560px !important;
+  }
+}
